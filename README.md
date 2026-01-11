@@ -68,6 +68,7 @@ graph TD
     %% --- LINKS ---
     linkStyle 0 stroke:#333,stroke-width:2px;
     linkStyle 1,2,3 stroke:#333,stroke-width:2px;
+</div>
 
     employee-onboarding-slack-alerts/
 ├── doc/
