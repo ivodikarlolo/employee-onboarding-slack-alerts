@@ -68,9 +68,17 @@ graph TD
     %% --- LINKS ---
     linkStyle 0 stroke:#333,stroke-width:2px;
     linkStyle 1,2,3 stroke:#333,stroke-width:2px;
+```
 </div>
 
-    employee-onboarding-slack-alerts/
+---
+
+## 📂 Repository Structure
+
+The project follows a modular design to separate business logic (`src`) from documentation (`doc`).
+
+```text
+employee-onboarding-slack-alerts/
 ├── doc/
 │   └── manual_setup.md       # 📖 Guide for setting up Triggers in UI
 ├── src/
@@ -80,3 +88,4 @@ graph TD
 │   └── utils.js              # 🛠️ Shared Helpers (Date formatting, API)
 ├── appsscript.json           # ⚙️ Manifest & Permissions
 └── README.md                 # 📄 Project Documentation
+```
